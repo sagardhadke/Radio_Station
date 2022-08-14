@@ -5,16 +5,16 @@ Podcast App ui Desgin Using Android Studio
 
 
 ![rlogo](https://user-images.githubusercontent.com/70995022/184540509-3e41d9df-c11a-4004-bfc7-ccdc6ed74065.png)
--cd0eb4039f15.png)
+
 
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #F11775 |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #FFFFFF |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #2D2C3C |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #707070 |
+| Pink | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #F11775 |
+| White | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #FFFFFF |
+| Black | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #2D2C3C |
+| Grey | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #707070 |
 
 
 ## Demo
