@@ -15,7 +15,7 @@ Podcast App ui Desgin Using Android Studio
 | Mostly desaturated dark blue. | ![#7477A0](https://via.placeholder.com/10/7477A0?text=+) #7477A0 |
 | Dark moderate blue. | ![#39579A](https://via.placeholder.com/10/39579A?text=+) #39579A |
 | Vivid pink. | ![#F11775](https://via.placeholder.com/10/F11775?text=+) #F11775 |
-| White. | (https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| White. | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
 
 
 
