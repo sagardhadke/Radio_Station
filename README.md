@@ -19,9 +19,15 @@ Podcast App ui Desgin Using Android Studio
 
 
 
-## Demo
 
-Insert gif or link to demo
+## Installation
+
+Install my-project with Android Studio
+
+```bash
+ https://github.com/SagarDhadke/Radio_Station.git
+```
+    
 
 
 ## Screenshots
