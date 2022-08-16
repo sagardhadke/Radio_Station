@@ -16,8 +16,8 @@
         android:theme="@style/Theme.RadioStation"
         tools:targetApi="31">
         <activity
-            android:name=".activities.Podcast"
-            android:exported="false" />
+            android:name=".Profile"
+            android:exported="false"/>
         <activity
             android:name=".Tutorial"
             android:exported="false" />
@@ -41,7 +41,10 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="true"/>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

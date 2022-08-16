@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="app_pink">#F11775</color>
     <color name="drak_blue">#181A26</color>
+
+    // text grey color
+    <color name="text_grey">#5C5E6F</color>
 </resources>
