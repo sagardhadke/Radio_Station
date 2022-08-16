@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/RadioStation/app/src/main/res/drawable/selector.xml" value="0.1955" />
         <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_forget_password.xml" value="0.23645833333333333" />
         <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_podcast.xml" value="0.1" />
+        <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_radio_stations.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_radiostations.xml" value="0.23645833333333333" />
         <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_signup.xml" value="0.23645833333333333" />
         <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_splash.xml" value="0.23645833333333333" />
         <entry key="..\:/Android/RadioStation/app/src/main/res/layout/activity_tutorial.xml" value="0.2" />
+        <entry key="..\:/Android/RadioStation/app/src/main/res/menu/menu_nav.xml" value="0.17734375" />
       </map>
     </option>
   </component>
