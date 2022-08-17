@@ -9,8 +9,8 @@ public class Song {
     private int image;
 
     public Song(String title, int image) {
-        this.title = title;
-        this.image = image;
+        this.title = title;     //Set Title
+        this.image = image;     //set Image.
     }
 
     public String getTitle() {
