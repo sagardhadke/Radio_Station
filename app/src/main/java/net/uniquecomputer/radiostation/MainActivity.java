@@ -3,6 +3,7 @@ package net.uniquecomputer.radiostation;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 
@@ -25,8 +26,29 @@ public class MainActivity extends AppCompatActivity {
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                switch (item.getItemId()){
+                switch (item.getItemId())
+                {
                     case R.id.home:
+                        startActivity(new Intent(getApplicationContext(),MainActivity.class));
+                        overridePendingTransition(0,0);
+                        return true;
+                    case R.id.radio_station:
+                        return true;
+
+                    case R.id.podcast:
+                        startActivity(new Intent(getApplicationContext(),login.class));
+                        overridePendingTransition(0,0);
+                        return true;
+
+                    case R.id.event:
+                        startActivity(new Intent(getApplicationContext(),ForgetPassword.class));
+                        overridePendingTransition(0,0);
+                        return true;
+
+                    case R.id.profile:
+                        startActivity(new Intent(getApplicationContext(),Profile.class));
+                        overridePendingTransition(0,0);
+                        return true;
 
                 }
                 return false;

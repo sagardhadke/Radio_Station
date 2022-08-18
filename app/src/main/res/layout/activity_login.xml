@@ -53,11 +53,10 @@
         android:id="@+id/email"
         android:layout_width="370dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="24dp"
-        android:layout_marginEnd="24dp"
+        android:layout_marginStart="@dimen/_24sdp"
+        android:layout_marginTop="@dimen/_24sdp"
+        android:layout_marginEnd="@dimen/_24sdp"
         android:textColorHint="#7477A0"
-        app:constraint_referenced_tags="dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
@@ -118,7 +117,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/forget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
@@ -133,7 +132,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout" />
 
     <Button
-        android:id="@+id/signup"
+        android:id="@+id/login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -159,7 +158,7 @@
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/signup" />
+        app:layout_constraintTop_toBottomOf="@+id/login" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -194,7 +193,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/signupacc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Sign up"

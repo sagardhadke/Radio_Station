@@ -40,4 +40,7 @@ dependencies {
 
     // Circular ImageView Android
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    //dimen files...
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
 }

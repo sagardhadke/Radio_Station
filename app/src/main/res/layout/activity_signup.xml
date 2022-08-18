@@ -132,7 +132,7 @@
 
 
     <Button
-        android:id="@+id/signup"
+        android:id="@+id/login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -158,7 +158,7 @@
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/signup" />
+        app:layout_constraintTop_toBottomOf="@+id/login" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -193,7 +193,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/loginacc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Log in"
