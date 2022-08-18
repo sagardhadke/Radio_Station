@@ -12,10 +12,10 @@ Podcast App ui Desgin Using Android Studio
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Very dark (mostly black) blue. | ![#1D192C](https://via.placeholder.com/15/1D192C/1D192C.png) #1D192C|
-| Mostly desaturated dark blue. | ![#7477A0](https://via.placeholder.com/10/7477A0?text=+) #7477A0 |
-| Dark moderate blue. | ![#39579A](https://via.placeholder.com/10/39579A?text=+) #39579A |
-| Vivid pink. | ![#F11775](https://via.placeholder.com/10/F11775?text=+) #F11775 |
-| White. | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Mostly desaturated dark blue. | ![#7477A0](https://via.placeholder.com/15/7477A0/7477A0.png) #7477A0 |
+| Dark moderate blue. | ![#39579A](https://via.placeholder.com/15/39579A/39579A.png) #39579A |
+| Vivid pink. | ![#F11775](https://via.placeholder.com/15/F11775/F11775.png) #F11775 |
+| White. | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) #FFFFFF |
 
 
 
