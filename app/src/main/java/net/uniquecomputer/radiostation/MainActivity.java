@@ -5,16 +5,24 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.TextView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
 
+    TextView textView;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        textView=findViewById(R.id.textView14);
 
         //Initialize And Assign Variable
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_nav);
@@ -57,5 +65,21 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         });
+
+        //  testing the logcat only
+        textView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                int num;
+                num = -555;
+                int num2 = 105;
+                int sum = num + num2;
+                System.out.println("The sum is:" + sum);
+
+            }
+        });
+
+
+
     }
 }
